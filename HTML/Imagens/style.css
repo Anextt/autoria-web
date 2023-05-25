@@ -1,0 +1,17 @@
+img {
+    height: 100px;
+    width: 100px;
+    border: 5px dotted rgb(28, 168, 255);
+    padding: 50px;
+}
+
+.bolinha {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.extrapola {
+    overflow: scroll;
+}
