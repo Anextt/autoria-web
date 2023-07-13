@@ -1,0 +1,16 @@
+img {
+    height: 50px;
+    width: 50px;
+    border: 5px rgb(28, 168, 255);
+    padding: 50px;
+}
+
+.bolinha {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.extrapola {
+    overflow: scroll;
+}
